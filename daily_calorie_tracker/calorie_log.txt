@@ -1,0 +1,58 @@
+Daily Calorie Tracker Report
+Date: 2025-11-09 16:26:23.032677
+
+Meal Name	Calories
+----------------------------------------
+breakfast		350.0
+lunch		600.0
+snack		150.0
+----------------------------------------
+Total:		1100.0
+Average:	366.67
+ Good job! You are within your daily calorie limit.
+
+==============================
+Daily Calorie Tracker Report
+Date: 2025-11-09 16:42:50.289961
+
+Meal Name	Calories
+----------------------------------------
+breakfast		300.0
+lunch		450.0
+dinner		1800.0
+----------------------------------------
+Total:		2550.0
+Average:	850.00
+Good job! You are within your daily calorie limit.
+==============================
+
+==============================
+Daily Calorie Tracker Report
+Date: 2025-11-09 16:43:41.830606
+
+Meal Name	Calories
+----------------------------------------
+breakfast		400.0
+lunch		300.0
+snacks		560.0
+dinner		2000.0
+----------------------------------------
+Total:		3260.0
+Average:	815.00
+Warning: You have exceeded your daily calorie limit!
+==============================
+
+==============================
+Daily Calorie Tracker Report
+Date: 2025-11-09 16:44:15.521747
+
+Meal Name	Calories
+----------------------------------------
+brkfast		350.0
+lunck		600.0
+dinner		1080.0
+----------------------------------------
+Total:		2030.0
+Average:	676.67
+Good job! You are within your daily calorie limit.
+==============================
